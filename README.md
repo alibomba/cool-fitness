@@ -1,0 +1,2 @@
+# Fitness
+This project is an imaginary gym website. It has functionalities like slider made in Javascript, contact form, newsletter sign up form or BMI calculator. Frontend is built in HTML, CSS and Javascript, and the backend is PHP and MySQL. The design is made by me in Figma.
